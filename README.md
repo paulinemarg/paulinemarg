@@ -17,4 +17,10 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulinemarg&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulinemarg&hide=java,html,css&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## 📬 Connect with me
+
+[<img align="left" alt="send me an email" width="25px" src="https://github.com/paulinemarg/paulinemarg/blob/main/assets/gmail.svg" />](paulinemargossian@gmail.com)
+[<img align="left" alt="linkedin profile" width="25px" src="https://github.com/paulinemarg/paulinemarg/blob/main/assets/linkedin.svg" />](https://www.linkedin.com/in/paulinemarg/)
