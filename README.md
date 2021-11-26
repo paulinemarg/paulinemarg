@@ -22,5 +22,5 @@
 
 ## 📬 Connect with me
 
-[<img align="left" alt="send me an email" width="25px" src="https://github.com/paulinemarg/paulinemarg/blob/main/assets/gmail.svg" />](paulinemargossian@gmail.com)
+[<img align="left" alt="send me an email" width="25px" src="https://github.com/paulinemarg/paulinemarg/blob/main/assets/gmail.svg" />](mailto:paulinemargossian@gmail.com)
 [<img align="left" alt="linkedin profile" width="25px" src="https://github.com/paulinemarg/paulinemarg/blob/main/assets/linkedin.svg" />](https://www.linkedin.com/in/paulinemarg/)
