@@ -3,8 +3,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Pauline!
 
 - 💻 I’m a certified Full-Stack developer with a business background based in Berlin.
-- 🔭 I’m currently searching for a web dev job to further enhance my skills through experience & mentorship.
 - 🌱 Besides coding I am interested in web design & everything related.
+- 📚 I’m currently enrolled in UI design Program at CareerFoundry, to master the art of creating visually pleasing, highly intuitive user experiences.
 - ⚡ Fun fact: I like to ride E-bike 🏍
 
 ---
