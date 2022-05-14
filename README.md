@@ -1,3 +1,5 @@
+![](https://github.com/paulinemarg/paulinemarg/blob/main/assets/githubCover.png?raw=true)
+
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Pauline!
 
 - 💻 I’m a certified Full-Stack developer with a business background based in Berlin.
