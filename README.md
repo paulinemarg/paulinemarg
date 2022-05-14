@@ -2,9 +2,9 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Pauline!
 
-- 💻 I’m a certified Full-Stack developer with a business background based in Berlin.
-- 🌱 Besides coding I am interested in web design & everything related.
-- 📚 I’m currently enrolled in UI design Program at CareerFoundry, to master the art of creating visually pleasing, highly intuitive user experiences.
+- 💻 I’m a certified Full-Stack developer and UI/UX designer with a business background based in Berlin.
+- 🌱 Besides coding I am interested in web design & everything related, that's why I was enrolled in the UI program after my coding Bootcamp
+- 📚 I’m open to learn new skills, tools, programming languages and integrate them in my work.
 - ⚡ Fun fact: I like to skateboard & ride E-bike 🏍
 
 ---
