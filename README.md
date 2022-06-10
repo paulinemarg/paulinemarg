@@ -3,7 +3,6 @@
 ### Hi there, I am Pauline!
 
 - 💻 I’m a certified Full-Stack developer and UI/UX designer with a business background based in Berlin.
-- 🌱 Besides coding I am interested in web design & everything related, that's why I was enrolled in the UI design program after my coding Bootcamp
 - 📚 I’m open to learn new skills, tools, programming languages and integrate them in my work
 - ⚡ In my free time, I like to read design books and complete coding challenges
 
