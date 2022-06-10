@@ -1,6 +1,6 @@
 ![](https://github.com/paulinemarg/paulinemarg/blob/main/assets/githubCover.png?raw=true)
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Pauline!
+### Hi there, I am Pauline!
 
 - 💻 I’m a certified Full-Stack developer and UI/UX designer with a business background based in Berlin.
 - 🌱 Besides coding I am interested in web design & everything related, that's why I was enrolled in the UI design program after my coding Bootcamp
