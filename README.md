@@ -23,3 +23,4 @@
 
 [<img align="left" alt="send me an email" width="25px" src="https://github.com/paulinemarg/paulinemarg/blob/main/assets/gmail.svg" />](mailto:paulinemargossian@gmail.com)
 [<img align="left" alt="linkedin profile" width="25px" src="https://github.com/paulinemarg/paulinemarg/blob/main/assets/linkedin.svg" />](https://www.linkedin.com/in/paulinemarg/)
+[<img align="left" alt="Behance profile" width="25px" src="https://github.com/paulinemarg/paulinemarg/blob/main/assets/behance.svg" />](https://www.behance.net/paulinemarg)
