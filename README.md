@@ -4,7 +4,7 @@
 
 - 💻 I’m a certified Full-Stack developer and UI/UX designer with a business background based in Berlin
 - 📚 I’m open and willing to learn new skills, tools & programming languages
-- ⚡ In my free time, I like to read design books and complete coding challenges
+- ⚡ In my free time, I like to read books, bake and ride my E-bike
 
 ---
 
